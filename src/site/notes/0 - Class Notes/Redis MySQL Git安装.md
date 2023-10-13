@@ -116,6 +116,7 @@ firewall-cmd --reload
 ```
 
 ### 安装git
+[[0 - Class Notes/Git常用命令\|Git常用命令]]
 
 ```bash
 yum -y install git
