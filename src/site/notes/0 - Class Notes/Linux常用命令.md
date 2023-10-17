@@ -41,3 +41,9 @@ vi /etc/redis.conf    //查看redis.conf文件
 -rw-r--r-- 1 root root 0 10月 17 11:20 file.txt
 $ chmod +100 file.txt      //给所有者添加执行权限
 ```
+
+新建用户
+```shell
+useradd test
+passwd test
+```
