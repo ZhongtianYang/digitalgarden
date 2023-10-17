@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-class-notes/maven/","dgPassFrontmatter":true,"created":"2023-10-11T11:56:22.618+08:00"}
+{"dg-publish":true,"permalink":"/0-class-notes/maven/","dgPassFrontmatter":true,"created":"2023-10-11T10:35:39.591+08:00"}
 ---
 
 ```shell
