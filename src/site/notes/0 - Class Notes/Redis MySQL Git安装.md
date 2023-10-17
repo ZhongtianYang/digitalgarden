@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-class-notes/redis-my-sql-git/","dgPassFrontmatter":true,"created":"2023-10-03T22:20:19.488+08:00"}
+{"dg-publish":true,"permalink":"/0-class-notes/redis-my-sql-git/","dgPassFrontmatter":true,"created":"2023-10-07T08:57:10.413+08:00"}
 ---
 
 ### 网络工具和wget安装
